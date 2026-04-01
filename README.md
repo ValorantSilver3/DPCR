@@ -1,4 +1,4 @@
-DPCR
+DPCR—Net
 
 Dependences
 Python 3.7
